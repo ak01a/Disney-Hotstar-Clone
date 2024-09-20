@@ -17,5 +17,5 @@ This project is a clone of the popular streaming service Disney Hotstar, created
 - **CSS:** For styling the web pages, including layout, colors, fonts, and responsive design.
 - **JavaScript:** For adding interactivity, such as the carousel functionality and modal pop-ups.
 
-**Website: https://ak01a.github.io/Disney-Hotstar-Clone/ **
+## Website: https://ak01a.github.io/Disney-Hotstar-Clone/ 
 
